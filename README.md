@@ -23,7 +23,7 @@ git clone --branch basic https://github.com/thunderBiscuit/live-btc-price.git
 The "one page" version (onefile branch) which is as simple as it gets. You can download that file, double-click on it, and it will run locally. No need to use my website at all. Download the specific tag using:
 
 ```shell
-git clone --branch basic https://github.com/thunderBiscuit/live-btc-price.git
+git clone --branch singlepage https://github.com/thunderBiscuit/live-btc-price.git
 ```
 
 ### My own latest version (hosted on github pages)
